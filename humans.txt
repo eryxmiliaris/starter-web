@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Eryx Miliaris	eryxmiliaris@gmail.com	@eryxmiliaris
 
 # THANKS
 
