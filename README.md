@@ -16,6 +16,8 @@ This is a simple web project, deployment can be done on any web server or even l
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2023 eryxmiliaris
